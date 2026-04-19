@@ -1,0 +1,1 @@
+"Cline, resume lo que hicimos hoy en el archivo MEMORY.md para que en la próxima sesión sepas en qué estado estamos".
